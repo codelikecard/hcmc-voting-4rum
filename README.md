@@ -9,6 +9,6 @@ Framework to use: CodeIgniter 3
 - $db['default'] in "application/config/database.php"
 - $config['base_url'] in "application/config/config.php"
 
-## Demo
+## Demo CTRL + CLICK
 
 [![Demo](https://github.com/codelikecard/image-storage/blob/main/Screenshot_76.png?raw=true)](https://youtu.be/dbtxTcKcuuQ)
