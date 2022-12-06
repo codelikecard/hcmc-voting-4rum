@@ -11,4 +11,4 @@ Framework to use: CodeIgniter 3
 
 ## Demo (Ctrl + Click)
 
-[![Demo](https://github.com/codelikecard/image-storage/blob/main/Screenshot_76.png?raw=true)](https://youtu.be/dbtxTcKcuuQ)
+[![Demo](https://github.com/codelikecard/image-storage/blob/main/Screenshot_77.png)](https://youtu.be/dbtxTcKcuuQ)
